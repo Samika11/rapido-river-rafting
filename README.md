@@ -1,1 +1,1 @@
-# rapido-river-rafting
+# rapid
